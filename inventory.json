@@ -1,0 +1,137 @@
+{
+  "Cooking": [
+    {
+      "item": "Cooking Oil",
+      "Price": 750,
+      "Description": "Natural Coconut oil"
+    },
+    {
+      "item": "Flour",
+      "Price": 200,
+      "Description": "All-purpose wheat flour"
+    },
+    {
+      "item": "Salt",
+      "Price": 50,
+      "Description": "Iodized table salt"
+    },
+    {
+      "item": "Rice",
+      "Price": 500,
+      "Description": "Long-grain white rice"
+    },
+    {
+      "item": "Spices",
+      "Price": 300,
+      "Description": "Mixed spice pack"
+    }
+  ],
+  "Beverages": [
+    {
+      "item": "Coffee",
+      "Price": 300,
+      "Description": "Instant coffee powder"
+    },
+    {
+      "item": "Tea",
+      "Price": 150,
+      "Description": "Green tea bags"
+    },
+    {
+      "item": "Orange Juice",
+      "Price": 120,
+      "Description": "Fresh orange juice"
+    },
+    {
+      "item": "Milkshake",
+      "Price": 180,
+      "Description": "Chocolate milkshake"
+    },
+    {
+      "item": "Soda",
+      "Price": 90,
+      "Description": "Carbonated soft drink"
+    }
+  ],
+  "Snacks": [
+    {
+      "item": "Potato Chips",
+      "Price": 100,
+      "Description": "Salted potato chips"
+    },
+    {
+      "item": "Cookies",
+      "Price": 200,
+      "Description": "Chocolate chip cookies"
+    },
+    {
+      "item": "Nuts",
+      "Price": 250,
+      "Description": "Assorted roasted nuts"
+    },
+    {
+      "item": "Popcorn",
+      "Price": 80,
+      "Description": "Buttered popcorn"
+    },
+    {
+      "item": "Granola Bar",
+      "Price": 120,
+      "Description": "Honey and oats granola bar"
+    }
+  ],
+  "Dairy": [
+    {
+      "item": "Milk",
+      "Price": 60,
+      "Description": "Full cream milk"
+    },
+    {
+      "item": "Cheese",
+      "Price": 400,
+      "Description": "Cheddar cheese"
+    },
+    {
+      "item": "Yogurt",
+      "Price": 90,
+      "Description": "Strawberry flavored yogurt"
+    },
+    {
+      "item": "Butter",
+      "Price": 150,
+      "Description": "Unsalted butter"
+    },
+    {
+      "item": "Cream",
+      "Price": 200,
+      "Description": "Heavy whipping cream"
+    }
+  ],
+  "Fruits": [
+    {
+      "item": "Apple",
+      "Price": 30,
+      "Description": "Fresh red apple"
+    },
+    {
+      "item": "Banana",
+      "Price": 10,
+      "Description": "Ripe banana"
+    },
+    {
+      "item": "Orange",
+      "Price": 25,
+      "Description": "Juicy orange"
+    },
+    {
+      "item": "Grapes",
+      "Price": 100,
+      "Description": "Seedless grapes"
+    },
+    {
+      "item": "Pineapple",
+      "Price": 150,
+      "Description": "Whole pineapple"
+    }
+  ]
+}
