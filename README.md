@@ -106,9 +106,4 @@ The application includes handling for:
 - **Missing or Malformed JSON Files**: Alerts if `inventory.json` is missing or improperly formatted.
 - **Invalid Category and Item Selection**: Notifies the user if they select a nonexistent category or item.
 - **Invalid Quantity Input**: Prompts the user to enter a positive integer for quantity.
-
-## License
-
-This project is licensed under the MIT License.
-
 ---
